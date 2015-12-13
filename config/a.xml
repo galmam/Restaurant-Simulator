@@ -1,0 +1,48 @@
+28/12/2013 05:09:38.705 - [INFO] - Gordon Ramsay Is Waiting for a new order
+28/12/2013 05:09:38.710 - [INFO] - Rachael Ray Is Waiting for a new order
+28/12/2013 05:09:38.715 - [INFO] - Wolfgang Puck Is Waiting for a new order
+28/12/2013 05:09:38.718 - [INFO] - Paula Deen Is Waiting for a new order
+28/12/2013 05:09:38.722 - [INFO] - We added a new order to chef Gordon Ramsay
+28/12/2013 05:09:38.729 - [WARNING] - The Chef Gordon Ramsay Cooking Order ID: 0 is in the warehouse
+28/12/2013 05:09:38.733 - [INFO] - We added a new order to chef Rachael Ray
+28/12/2013 05:09:38.734 - [WARNING] - The Chef Rachael Ray Cooking Order ID: 1 is waiting for the warehouse to be empty
+28/12/2013 05:09:38.738 - [INFO] - We added a new order to chef Wolfgang Puck
+28/12/2013 05:09:38.738 - [WARNING] - The Chef Wolfgang Puck Cooking Order ID: 2 is waiting for the warehouse to be empty
+28/12/2013 05:09:38.739 - [INFO] - We added a new order to chef Paula Deen
+28/12/2013 05:09:38.748 - [WARNING] - The Chef Paula Deen Cooking Order ID: 3 is waiting for the warehouse to be empty
+28/12/2013 05:09:38.790 - [WARNING] - The Chef Gordon Ramsay Cooking Order ID: 0 is no longer in the warehouse
+28/12/2013 05:09:38.790 - [INFO] - We acquire all neede tools and ingredients and Gordon Ramsay Start cooking Order ID:0
+28/12/2013 05:09:38.791 - [WARNING] - The Chef Paula Deen Cooking Order ID: 3 is in the warehouse
+28/12/2013 05:09:38.791 - [WARNING] - The Chef Wolfgang Puck Cooking Order ID: 2 is waiting for the warehouse to be empty
+28/12/2013 05:09:38.791 - [WARNING] - The Chef Rachael Ray Cooking Order ID: 1 is waiting for the warehouse to be empty
+28/12/2013 05:09:47.762 - [WARNING] - The Chef Paula Deen Cooking Order ID: 3 is no longer in the warehouse
+28/12/2013 05:09:47.762 - [INFO] - We acquire all neede tools and ingredients and Paula Deen Start cooking Order ID:3
+28/12/2013 05:09:47.763 - [WARNING] - The Chef Rachael Ray Cooking Order ID: 1 is in the warehouse
+28/12/2013 05:09:47.763 - [WARNING] - The Chef Wolfgang Puck Cooking Order ID: 2 is waiting for the warehouse to be empty
+28/12/2013 05:09:52.289 - [WARNING] - The Chef Rachael Ray Cooking Order ID: 1 is no longer in the warehouse
+28/12/2013 05:09:52.289 - [INFO] - We acquire all neede tools and ingredients and Rachael Ray Start cooking Order ID:1
+28/12/2013 05:09:52.290 - [WARNING] - The Chef Wolfgang Puck Cooking Order ID: 2 is in the warehouse
+28/12/2013 05:09:52.294 - [INFO] - Cocking time was about 13562ms
+28/12/2013 05:09:52.294 - [WARNING] - We cocked all the dishes of Order:0
+28/12/2013 05:09:52.294 - [WARNING] - The Chef Gordon Ramsay has finisih cooking and his pressure now is 0
+28/12/2013 05:09:52.310 - [WARNING] - The Chef Gordon Ramsay Cooking Order ID: 4 is waiting for the warehouse to be empty
+28/12/2013 05:09:52.311 - [INFO] - We added a new order to chef Gordon Ramsay
+28/12/2013 05:09:52.311 - [WARNING] - We have Succssesfully cooked all the orders
+28/12/2013 05:09:52.312 - [WARNING] - We told all the chefs to not accept any new order and finish cooking
+28/12/2013 05:09:55.306 - [WARNING] - The Chef Wolfgang Puck Cooking Order ID: 2 is no longer in the warehouse
+28/12/2013 05:09:55.306 - [INFO] - We acquire all neede tools and ingredients and Wolfgang Puck Start cooking Order ID:2
+28/12/2013 05:09:55.307 - [WARNING] - The Chef Gordon Ramsay Cooking Order ID: 4 is in the warehouse
+28/12/2013 05:10:04.270 - [INFO] - Cocking time was about 25479ms
+28/12/2013 05:10:04.270 - [WARNING] - We cocked all the dishes of Order:3
+28/12/2013 05:10:04.271 - [WARNING] - The Chef Paula Deen has finisih cooking and his pressure now is 0
+28/12/2013 05:10:04.317 - [WARNING] - The Chef Gordon Ramsay Cooking Order ID: 4 is no longer in the warehouse
+28/12/2013 05:10:04.317 - [INFO] - We acquire all neede tools and ingredients and Gordon Ramsay Start cooking Order ID:4
+28/12/2013 05:10:05.801 - [INFO] - Cocking time was about 18038ms
+28/12/2013 05:10:05.801 - [WARNING] - We cocked all the dishes of Order:1
+28/12/2013 05:10:05.802 - [WARNING] - The Chef Rachael Ray has finisih cooking and his pressure now is 0
+28/12/2013 05:10:10.317 - [INFO] - Cocking time was about 18027ms
+28/12/2013 05:10:10.318 - [WARNING] - We cocked all the dishes of Order:2
+28/12/2013 05:10:10.318 - [WARNING] - The Chef Wolfgang Puck has finisih cooking and his pressure now is 0
+28/12/2013 05:10:17.818 - [INFO] - Cocking time was about 22511ms
+28/12/2013 05:10:17.818 - [WARNING] - We cocked all the dishes of Order:4
+28/12/2013 05:10:17.818 - [WARNING] - The Chef Gordon Ramsay has finisih cooking and his pressure now is 0
